@@ -1,0 +1,6 @@
+﻿  main.cpp
+  ArrayStack.cpp
+  正在生成代码...
+main.obj : error LNK2019: 无法解析的外部符号 "public: __thiscall ArrayStack<int>::ArrayStack<int>(int)" (??0?$ArrayStack@H@@QAE@H@Z)，该符号在函数 "void __cdecl test(void)" (?test@@YAXXZ) 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 "public: void __thiscall ArrayStack<int>::push(int)" (?push@?$ArrayStack@H@@QAEXH@Z)，该符号在函数 "void __cdecl test(void)" (?test@@YAXXZ) 中被引用
+E:\Workspaces\Cpp\Data_Structure_Algorithm_Assignment\Debug\Q08_03_ArrayStack.exe : fatal error LNK1120: 2 个无法解析的外部命令
