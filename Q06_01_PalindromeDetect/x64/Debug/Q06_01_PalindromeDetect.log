@@ -1,6 +1,1 @@
-﻿  PalindromeDetect.cpp
-e:\workspaces\cpp\data_structure_algorithm_assignment\q06_01_palindromedetect\palindromedetect.cpp(54): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
-e:\workspaces\cpp\data_structure_algorithm_assignment\q06_01_palindromedetect\palindromedetect.cpp(62): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
-e:\workspaces\cpp\data_structure_algorithm_assignment\q06_01_palindromedetect\palindromedetect.cpp(70): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
-  Q06_01_PalindromeDetect.vcxproj -> E:\Workspaces\Cpp\Data_Structure_Algorithm_Assignment\x64\Debug\Q06_01_PalindromeDetect.exe
-  Q06_01_PalindromeDetect.vcxproj -> E:\Workspaces\Cpp\Data_Structure_Algorithm_Assignment\x64\Debug\Q06_01_PalindromeDetect.pdb (Partial PDB)
+﻿
